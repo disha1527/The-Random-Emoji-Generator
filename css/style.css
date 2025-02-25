@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right, rgb(197, 125, 125) , rgb(78, 78, 120));;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    position: static;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-size: 2rem;
+    color: aliceblue;
+    font-weight: bolder;
+   
+}
+
+.section{
+    text-align: center;
+}
+
+.btn{
+    font-size: 5rem;
+    border: none;
+    background: rgb(255,255,255,.2);
+    border-radius: 10px;
+    padding: 15px;
+    filter: grayscale();
+    transition: filter .2s ease-in-out;
+    cursor: pointer;
+
+}
+
+.btn:hover{
+    filter: grayscale(0);
+}
+
+.emoji-name{
+    font-weight: 600;
+    color: rgb(234, 234, 234);
+    font-size: 30px;
+}
