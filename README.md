@@ -8,7 +8,14 @@ To get the necessary API keys, we will apply to the Emoji API website.</p>
 <p>- Endless emoji surprises to add a dash of creativity to your messages 😄🎉</p>
 <p>- A user-friendly design for a delightful experience ⚙️</p>
 
+Live Demo: https://disha1527.github.io/The-Random-Emoji-Generator/
+
 ![Screenshot 2025-02-25 092556](https://github.com/user-attachments/assets/32d6ce82-ad9d-48fd-8d90-b7e27e362d87)
+
+
+
+https://github.com/user-attachments/assets/f4b1c704-cae8-4533-9ff0-33f25bd76835
+
 
 
 
